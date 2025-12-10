@@ -1,0 +1,5 @@
+source "$SIFLI_SDK/Kconfig.v2"
+source "$SIFLI_SDK/customer/boards/Kconfig.v2"
+source "D:/xiaozhi_sf32/xiaozhi-sf32/sdk/customer/boards/sf32lb52-lchspi-ulp/hcpu/Kconfig.board"
+osource "D:/xiaozhi_sf32/xiaozhi-sf32/sdk/example/flash_table/sf32lb52x_common_v2/sf-pkgs/Kconfig.conandeps"
+source "D:/xiaozhi_sf32/xiaozhi-sf32/sdk/example/flash_table/sf32lb52x_common_v2/Kconfig.proj"
